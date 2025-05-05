@@ -1,0 +1,21 @@
+product_id,product_name,units_sold,sale_date,category
+1,product1,7,2023-01-01,Electronics
+2,product2,4,2023-01-02,Sports
+3,product3,8,2023-01-03,Clothing
+4,product4,5,2023-01-04,Books
+5,product5,7,2023-01-05,Sports
+6,product6,3,2023-01-06,Electronics
+7,product7,7,2023-01-07,Electronics
+8,product8,8,2023-01-08,Home & Garden
+9,product9,5,2023-01-09,Home & Garden
+10,product10,4,2023-01-10,Clothing
+11,product11,8,2023-01-11,Sports
+12,product12,8,2023-01-12,Sports
+13,product13,3,2023-01-13,Home & Garden
+14,product14,6,2023-01-14,Sports
+15,product15,5,2023-01-15,Sports
+16,product16,2,2023-01-16,Electronics
+17,product17,8,2023-01-17,Home & Garden
+18,product18,6,2023-01-18,Books
+19,product19,2,2023-01-19,Home & Garden
+20,product20,5,2023-01-20,Books
